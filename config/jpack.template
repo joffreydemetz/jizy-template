@@ -1,0 +1,3 @@
+import jTemplate from '{{PREFIX}}lib/js/template.js';
+
+export default jTemplate;

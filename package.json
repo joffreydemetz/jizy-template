@@ -1,6 +1,6 @@
 {
   "name": "jizy-template",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "browser": "dist/js/jizy-template.min.js",
   "main": "lib/index.js",
   "type": "module",
